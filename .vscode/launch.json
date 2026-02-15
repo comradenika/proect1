@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Hangman Game",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/proectpy1/proect.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/proectpy1"
+        }
+    ]
+}
